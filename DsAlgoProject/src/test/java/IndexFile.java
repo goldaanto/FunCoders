@@ -10,6 +10,9 @@ public class IndexFile {
 		System.out.println("Welcome");
 		System.out.println("Welcome to Numpy Ninja");
 		System.out.println("Welcome to DSalgo Project");
+		System.out.println("Welcome");
+		System.out.println("Welcome to Numpy Ninja");
+		System.out.println("Welcome to DSalgo Project");
 	}
 
 }
